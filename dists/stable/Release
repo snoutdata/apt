@@ -1,0 +1,19 @@
+Origin: PositronDB
+Label: PositronDB
+Codename: stable
+Date: Tue, 02 Jun 2026 02:31:24 UTC
+Architectures: amd64
+Components: main
+Description: PositronDB apt repository (Debian/Ubuntu)
+MD5Sum:
+ 1872c1049a127fa6bfe4a61e5a49e88f 738 main/binary-amd64/Packages
+ 7c52dc1e96dde624b94971677c4034a5 500 main/binary-amd64/Packages.gz
+ d97ed892d07ea7fc077563b73c5f001b 128 main/binary-amd64/Release
+SHA1:
+ 20e5ec855c4b406598c9dd0193a78f8b867030d2 738 main/binary-amd64/Packages
+ b2e16cd1af992b37f6509c04d489edc546da18be 500 main/binary-amd64/Packages.gz
+ e9c7da7966bf4f663174d04ec3702d3432e6749e 128 main/binary-amd64/Release
+SHA256:
+ 6b2dff3f020f92fa29bcfade8f6d3b2e80f9aee3e9befbf6eca18dcc76b95f83 738 main/binary-amd64/Packages
+ 0f7e09fb356074600fbab570b535570282871c6b9ea6cf9b6221b4cc22d515ba 500 main/binary-amd64/Packages.gz
+ b2fd3009127bb9f6bf8e437243694dd632f044158a54e6d538f1597f009d9e98 128 main/binary-amd64/Release
