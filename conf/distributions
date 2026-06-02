@@ -4,4 +4,4 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: PositronDB apt repository (Debian/Ubuntu)
-SignWith: 60498AF68BC242A8
+SignWith: 35BE43F2F10FC92B
