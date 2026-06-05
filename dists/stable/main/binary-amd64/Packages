@@ -1,20 +1,20 @@
 Package: positron-db
-Version: 0.0.22
+Version: 0.0.23
 License: MIT
 Vendor: Joel Oliver <joel2oliver@gmail.com>
 Architecture: amd64
 Maintainer: Joel Oliver <joel2oliver@gmail.com>
-Installed-Size: 376650
+Installed-Size: 376649
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
 Homepage: https://github.com/joeloliver/positron-db
 Priority: optional
 Section: default
-Filename: pool/main/p/positron-db/positron-db_0.0.22_amd64.deb
-Size: 85589098
-SHA256: c720fe63f7e26374dcdf0da72e17d03b11675ddd9df7cbc95386034d5b014727
-SHA1: 3d12dcd950c31d9685a683a02599b544f1a52af0
-MD5sum: e4b62622fa975e2f66e5fb7dbc4acf3c
+Filename: pool/main/p/positron-db/positron-db_0.0.23_amd64.deb
+Size: 85584912
+SHA256: 4b9037fc73d25973483e68eaf614ed8bba9537c111e080a13100cc626a0f69e7
+SHA1: 303c029a2d1fc1ab3b859c11218666a8a84cdd62
+MD5sum: d63b4cff1c6bdd3c9a4758233a7761ce
 Description: 
-  An AI-driven SQL IDE built from scratch (Electron + Monaco + LSP).
+  PositronDB
 
