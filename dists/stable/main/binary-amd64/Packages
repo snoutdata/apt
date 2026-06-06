@@ -1,20 +1,20 @@
 Package: positron-db
-Version: 0.0.29
+Version: 0.0.30
 License: MIT
 Vendor: Joel Oliver <joel2oliver@gmail.com>
 Architecture: amd64
 Maintainer: Joel Oliver <joel2oliver@gmail.com>
-Installed-Size: 380438
+Installed-Size: 380437
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
 Homepage: https://github.com/joeloliver/positron-db
 Priority: optional
 Section: default
-Filename: pool/main/p/positron-db/positron-db_0.0.29_amd64.deb
-Size: 85330612
-SHA256: d397eb6fbddc6201d9f72bd3e316708fd4ea3c98446f801eb1cfcba3b73b6281
-SHA1: ec0795a464f127f7517132315a9ecd5fa17d0ef6
-MD5sum: 0c3ca5f9a58befa3bed204d9c3b34ddd
+Filename: pool/main/p/positron-db/positron-db_0.0.30_amd64.deb
+Size: 85355594
+SHA256: c75b925659b1cfb99886bae4e551484295f72ef41f472c9ffa799f772d5a0ab1
+SHA1: 5e76eda8b03c009d50cd6c589e60620832f95999
+MD5sum: 9881dc6e46489d477520f4289b3c2b4b
 Description: 
   PositronDB
 
