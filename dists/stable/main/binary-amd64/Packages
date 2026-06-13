@@ -19,22 +19,22 @@ Description:
   PositronDB
 
 Package: snoutdata
-Version: 0.0.47
+Version: 0.0.48
 License: MIT
 Vendor: Joel Oliver <joel2oliver@gmail.com>
 Architecture: amd64
 Maintainer: Joel Oliver <joel2oliver@gmail.com>
-Installed-Size: 433262
+Installed-Size: 433280
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
 Homepage: https://snoutdata.com
 Priority: optional
 Section: default
-Filename: pool/main/s/snoutdata/snoutdata_0.0.47_amd64.deb
-Size: 97482074
-SHA256: 53689402399440c161ebe2f8c1a12a9697bc6cb9e585be46408c7a98d4100383
-SHA1: a6ef2d127baf167158b136c0f429ebd18725b008
-MD5sum: 64faeb74ed89e68c57e6f63a3bace1f1
+Filename: pool/main/s/snoutdata/snoutdata_0.0.48_amd64.deb
+Size: 97486500
+SHA256: 082b161d6ed1b458efff90e7a7a040889af99fa75d945024ad15b8c9b476e2bd
+SHA1: 9235a5cc96f1d9f98a3c31eac9cf9485310443ba
+MD5sum: 7ff00e3ea483ac000c0e3a18200665e0
 Description: 
   SnoutData
 
