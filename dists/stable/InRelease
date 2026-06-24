@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: PositronDB
+Label: PositronDB
+Codename: stable
+Date: Tue, 16 Jun 2026 04:58:35 UTC
+Architectures: amd64
+Components: main
+Description: PositronDB apt repository (Debian/Ubuntu)
+MD5Sum:
+ c03a4145b2a10f00a49197ec557eac14 1337 main/binary-amd64/Packages
+ 9fd0f74e3678bbc24ac485a54ca4aed7 604 main/binary-amd64/Packages.gz
+ d97ed892d07ea7fc077563b73c5f001b 128 main/binary-amd64/Release
+SHA1:
+ aaa5a9f88110a9820a792812d2d2194e0c90b85e 1337 main/binary-amd64/Packages
+ f3a02e845b1de24a04de28f8f23f9e85fed36f59 604 main/binary-amd64/Packages.gz
+ e9c7da7966bf4f663174d04ec3702d3432e6749e 128 main/binary-amd64/Release
+SHA256:
+ 5503c286523610b133339aa7fc0dfd9d230783c5d911b816184ec9046fdedee3 1337 main/binary-amd64/Packages
+ 60f45b36e3c1dc9b97a3b4406b394eb915571387754039176903c3d3e07a6f6b 604 main/binary-amd64/Packages.gz
+ b2fd3009127bb9f6bf8e437243694dd632f044158a54e6d538f1597f009d9e98 128 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEIq145H3ZMAeshyAtNb5D8vEPySsFAmow1/sACgkQNb5D8vEP
+ySs56w//WXalI/TghtYRuZFTt1hPFdeCeUChKNHzl/1Z3u+znjKNkGeOducA49Vx
+4TqWVuHT1I+KQWlGxLGhOLpBL9UvNiOK9TBxCKJpTKKz1kgPgc1KOFNIR1deuf2E
+zFEK9TN4S274cWJduO3uVUtMf5ANn2Gr3PiMK3tDhwKDBKFUd/Z1DjFIGkHn0CeJ
+iH3Wir2C39ia1YzW1eXIM33B1amijuxzqVORogatWr0ARcSaqWrp7JelJ+8+QWlG
+Hi6iSzemHWCTOmmXyGD02GBL6eEQFMYQR/k6YZHtp9Y6MrLHgHdAmFPmARkjxogs
+D/zHIrZMI1SoYRg9fUw5ewMaW9B/iyPep+W48kAycdpkpJCQwMwY7bvjih9afekY
+EdHliJ7LRs3b2RJRTrUrKnn3wHeukVmClutfcAWyt82rr5DLE0hCE45oVpn9i+kt
+9csfhfIU4wgf3CQ4C2sKz0yODcUXRAvP/thIUThJYvqdlI4YCnUeu9GFx75t0lXN
+yfmkI8J0YMD95vqzxACfZORqvA553LKrZwPlMo89M2gMOMIl1d8UVtxX4h+wEkWu
+5S8FcWGQYKTdB77ctLn8c0xL9sXgx0AnGAnK3tt8Nzih6ih4mMynrbth3XPTaw+I
+UshSBxiJYdmQlxS6//iFp4MIu5ErCLoL1Lk7Xmtw0iJBgpYPH04=
+=AU5X
+-----END PGP SIGNATURE-----

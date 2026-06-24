@@ -1,0 +1,5 @@
+Component: main
+Origin: PositronDB
+Label: PositronDB
+Architecture: amd64
+Description: PositronDB apt repository (Debian/Ubuntu)
