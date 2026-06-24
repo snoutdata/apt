@@ -1,5 +1,5 @@
 Component: main
-Origin: PositronDB
-Label: PositronDB
+Origin: SnoutData
+Label: SnoutData
 Architecture: amd64
-Description: PositronDB apt repository (Debian/Ubuntu)
+Description: SnoutData apt repository (Debian/Ubuntu)
