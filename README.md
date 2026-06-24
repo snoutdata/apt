@@ -1,6 +1,6 @@
 # Snoutdata apt repository
 
-Debian/Ubuntu package repository for [PositronDB](https://positrondb.com), served via GitHub Pages.
+Debian/Ubuntu package repository for [Snoutdata](https://snoutdata.com), served via GitHub Pages.
 
 ```bash
 curl -fsSL https://positron-labs.github.io/apt/positron-db-archive-keyring.gpg \
