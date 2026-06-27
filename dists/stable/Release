@@ -1,19 +1,19 @@
 Origin: SnoutData
 Label: SnoutData
 Codename: stable
-Date: Sat, 27 Jun 2026 02:33:26 UTC
+Date: Sat, 27 Jun 2026 19:58:17 UTC
 Architectures: amd64
 Components: main
 Description: SnoutData apt repository (Debian/Ubuntu)
 MD5Sum:
- cb099b11721835bd2d5a315d6dfde2e1 655 main/binary-amd64/Packages
- b85b99009f19acafef09b5b0afd38405 444 main/binary-amd64/Packages.gz
+ 02e128b7fa59a60c804416c9dcb5c63b 653 main/binary-amd64/Packages
+ 794161cee5acad884aba3ab7f3b081b0 442 main/binary-amd64/Packages.gz
  16355c0e07a8c34b22ecfedba82bc67b 125 main/binary-amd64/Release
 SHA1:
- 5eff98288d51c65c3605b0af3a196a77058418d4 655 main/binary-amd64/Packages
- ada7e9547ef76308d2acb1fc0505d8664d1a3695 444 main/binary-amd64/Packages.gz
+ 00341e4ad7200a3c3adfe6e8f7df922af4122f58 653 main/binary-amd64/Packages
+ af8baa63b242735a34762210447dbbe0ce55a517 442 main/binary-amd64/Packages.gz
  b5951f7853b488a942003dfbe5f6e3242b2a98e3 125 main/binary-amd64/Release
 SHA256:
- 2bbe9e06b7704fda7fe2493ab7472858302aeb5c6ad9f592c32aa4b5a4293dbc 655 main/binary-amd64/Packages
- 39bfe0a5cfe51c797a1e3433aef0cbd7355a8bd1d1077746438de1200c4e0ae8 444 main/binary-amd64/Packages.gz
+ 869bc8c1db4c50a11fe1e99bc84c376a45ff3e90efee81ffd9de7e599f307750 653 main/binary-amd64/Packages
+ a72b669bfb5c483617d8e080f40ebd770ea9f81f2d478e4c87bfcd2c72634b03 442 main/binary-amd64/Packages.gz
  c00e3b2b2b864b90921b24569d55af560fb74fb16765aadd7e4e1d5f1b2e9038 125 main/binary-amd64/Release
