@@ -4,35 +4,35 @@ Hash: SHA512
 Origin: SnoutData
 Label: SnoutData
 Codename: stable
-Date: Sat, 04 Jul 2026 06:49:34 UTC
+Date: Mon, 06 Jul 2026 06:14:04 UTC
 Architectures: amd64
 Components: main
 Description: SnoutData apt repository (Debian/Ubuntu)
 MD5Sum:
- 049ffd12910c6d65cc74bd126c8c57ed 653 main/binary-amd64/Packages
- 33159b662b1c723a4df39cddb6a397d3 443 main/binary-amd64/Packages.gz
+ 80b58d7a1b4d7c2f62028f8599224da7 653 main/binary-amd64/Packages
+ f5efb6eba1a839b251722a649a95318b 442 main/binary-amd64/Packages.gz
  16355c0e07a8c34b22ecfedba82bc67b 125 main/binary-amd64/Release
 SHA1:
- a8491937844d96dc30ce563cecc069bc53e6a705 653 main/binary-amd64/Packages
- 5fe1d1a5483dfb7e174b17b4691144e08706075b 443 main/binary-amd64/Packages.gz
+ bc775c09f850f196a7bd9c1cf38cbcb9a8752a00 653 main/binary-amd64/Packages
+ fa59921358d7b2f3c7069e6ebffeb90b5594e68c 442 main/binary-amd64/Packages.gz
  b5951f7853b488a942003dfbe5f6e3242b2a98e3 125 main/binary-amd64/Release
 SHA256:
- 0e73f21b25822552e7fa479b86904cd49f2526ea12756122611f730e301ad616 653 main/binary-amd64/Packages
- 5a311f0367af9990121d6ba536a64eb07f396b36a89e9d0bcb9125fdc66ca17f 443 main/binary-amd64/Packages.gz
+ e41f31a676973adea16f95f7cb1b7a8d9f8f9f2d33d66f37f2f41da04dd42cec 653 main/binary-amd64/Packages
+ ffc0549b7d918e879afe8cfd94e44f69ee7354dd5001822b638c5694d5e36d27 442 main/binary-amd64/Packages.gz
  c00e3b2b2b864b90921b24569d55af560fb74fb16765aadd7e4e1d5f1b2e9038 125 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEIq145H3ZMAeshyAtNb5D8vEPySsFAmpIrP4ACgkQNb5D8vEP
-ySu7Mw/+K2kGBV6iUiQNcAydql1wYWZszo/Rv1OZLPnP/hah/JavktJU+YKDXL6f
-vtKMlwJT3Wb+5qcoQEBUT7hS0obLr2rhTDlJ4MwYg2cZao+SH9ZiRohW81x+cGXl
-qqMwlyYs/X1SfiNA4KE3OST8xQQ0s74vE3Gq3vvmEavnH4GWGaAAN1uCGKvwo5T2
-yWRgwLFWmJhYXHfAQEnjPMnbD+0OPrc9Z0gd6KBwglnxYFDu96/KJ+XXcrb00oXN
-YXHxcfJy2qxXHHo52vsox/7FAfqBcucW4FVzoXe56MEu/KOqW8TYT5R7F5Rlyj6V
-C993ZbkSdN/dVFXhpuFGcRODS/rf1eUdZxnwqfjtdorGopgerte4k6fUuU+b33nh
-goRK/4sm2tCBVv3cNkMNeMvvpbMI3vyXfeCKgfDyiPgGIoIwDZa2pAdnXkYdr+c9
-omoGE9Z1FPYqySnFBxOYAigSzu0PONlJCZVW4tFS972uCkQ5AG3Ym+Erz/crESAR
-SfoWS8ACIZ46dlof/KD7yM929GrdkuOUEm7bqQx25MFXKThOSv9IXJHCtQItKdkv
-vZvL+dAZ33SGPIUlL2+UYsoEsrVXP8UuSyykPE3oPAp76SicF2afoF8gyITkmhE0
-5yunJlMELURjWOFc72DfNoL7RHXgDoG/HiDWEizRXpRD7KJHqag=
-=r/7s
+iQIzBAEBCgAdFiEEIq145H3ZMAeshyAtNb5D8vEPySsFAmpLR6wACgkQNb5D8vEP
+ySt7Ow//VPAr0LDM25L1ye1+Tosx+ly/PxZKaQEwyBSBBdDDjWTO6H4DF9fyW0f0
+vY2vo8r6Vv+qOO1vZEqz729kimRf8+4u1dwXCf22BYQmw1wpAa77Ki/W5Ej7+OrU
+lJsjVhWrfb6+vjBV4abWy8FS0IBma5RB9BKvaKQd2gd5wZER3kmCdlXIjB4xmoI3
+MpUGpsWafcYfbxb/Fg2YJCrdDJfpXg9Ya6GfmmkLza6QEuxGdAci31VUDaGy7xWd
+aLKDRwIFju6hY/HLXoliPziF7zRPBWd8fMI/N7zosNryjMExLpDG69TxQnNyr424
++Y+kXvwLq7lVq6uhDwU7RQkTI7+9qMG9JXxSOMTZtQhWBfoqwu+D+6q2YWnC7pvh
+gJVFMOsPTu5m9zxzOs4w760tzhGvR3sBC34EzjE8fntUgEdvxc48TVccrfsyZKGY
+tkOI2x6YGxiY/2PBwKWAkwEDfBy6Equqy2N9mWtUUwU/XdfB2MEZo9mG+yVKddPl
+8eqbJChJMFpUJ4KLMQfPQ28sMIajfmfDDu//aX9wjQBkXH+B6+ttCwRe/NxQmzfU
+Y//OPxCdBOLy/QaCJN90zL7x4OlQE0BYcm+p7En6yeCCbgEPq2enPkaLVIZDxjEQ
+To9m955HLtnrqCexMzCDeNgCOcyykZY85ucBQkyVd5LtyXwmzXg=
+=4rus
 -----END PGP SIGNATURE-----
