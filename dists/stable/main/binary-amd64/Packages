@@ -1,20 +1,20 @@
 Package: snoutdata
-Version: 1.0.13
+Version: 1.0.14
 License: MIT
 Vendor: Joel Oliver <joel2oliver@gmail.com>
 Architecture: amd64
 Maintainer: Joel Oliver <joel2oliver@gmail.com>
-Installed-Size: 527999
+Installed-Size: 528320
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
 Homepage: https://snoutdata.com
 Priority: optional
 Section: default
-Filename: pool/main/s/snoutdata/snoutdata_1.0.13_amd64.deb
-Size: 99422642
-SHA256: 8127613c05c7e57ea5d42f3f396c675028da860bd709aec985a450197ffa2033
-SHA1: 5ee17c2afe3c10f00805924dfb76b02e27b9eb51
-MD5sum: de25f676ec72e01920d68cae3bea8b33
+Filename: pool/main/s/snoutdata/snoutdata_1.0.14_amd64.deb
+Size: 99501214
+SHA256: c269cec2d81ea626ef3bd4b55a0d8436fa1b71998aeeb66f8196482c703b5a45
+SHA1: 9f02510e713a170044eaa030082194b2cfab87ab
+MD5sum: c359228b08bce1e03ce789064d20b89b
 Description: 
   SnoutData
 
